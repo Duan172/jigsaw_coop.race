@@ -1,0 +1,6 @@
+{
+  "name": "Team Jigsaw Challenge",
+  "description": "Modern real-time collaborative jigsaw puzzle racing with customizable grid dimensions, authentic interlocking puzzle pieces, cluster snapping, open-ended questions, and live dual leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
